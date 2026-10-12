@@ -30,9 +30,5 @@ Netflix Movies and TV Shows dataset (`netflix_titles.csv`).
 ## Conclusion
 This project explores Netflix's content library and identifies patterns in content types, genres, ratings, release years, and country distribution.
 
-
 ## Author
-
-Kavitha
-
-Created as a data analysis project using Python, Pandas, Matplotlib, and Seaborn.
+Add your name here.
